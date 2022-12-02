@@ -157,23 +157,14 @@ I would like to thank my reviewers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **How Do i use linters**
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  -Follow the link below to have a brief intro on how to use linters
+  https://www.google.com/search?q=how+to+use+linters&sxsrf=ALiCzsZBP8aP9KgjFJD29gQ7ufLwA12ihQ:1669998153856&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjdr_H1q9v7AhVN_7sIHcSCBrYQ_AUoAXoECAIQAw&biw=1228&bih=573&dpr=3.13#fpstate=ive&vld=cid:498279cd,vid:HDQXWr5TOnI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
