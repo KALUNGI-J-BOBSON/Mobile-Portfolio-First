@@ -1,16 +1,91 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Mobibile First Portfolio
+# Mobile First Portfolio
 
-> simple css and html project to help understand Linters configuration
+> A simple portfolio website.
+> Below are the sections contained in this project;
 
-## Built With
+- Toolbar
+- Headline section (right after the header).
+- Portfolio
+- About myself
+- Contact me
+  The layout was done using css flexbox and css grid, button interactions implemented.
+  Use media queries to make sure that website displays correctly on desktop screens.
+  <div align="center">
 
-- Major languages HTML and CSS
-- Frameworks -none
-- Technologies used -Linters
+    <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+    <br/>
 
-## Live Demo (if available)
+    <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+# Mobile First Portfolio
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+# 📖 Mobile First Portfolio <a name="about-project"></a>
+
+> Describe your project in 1 or 2 sentences.
+
+**[your_project__name]** is a...
+
+## 🛠 Built With <a name="built-with"></a>
+
+- HTML
+- CSS
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Toolbar**
+- **Portfolio**
+- **About myself**
+
+## Live Demo (if available).
 
 -not available
 
@@ -34,6 +109,10 @@ V) change diectory to the created folder
 
 -install git and and prefered IDE eg VS CODE
 
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
 ## Author
 
 👤 **Kalungi J Bobson**
@@ -42,26 +121,64 @@ V) change diectory to the created folder
 - Twitter:https://twitter.com/KALUNGIBOBONJ
 - LinkedIn:https://linkedin.com/in/KALUNGI-J-BOBSON
 
-## 🤝 Contributing
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+<!-- SUPPORT -->
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my reviewers
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
 
-**How Do i use linters**
--Follow the link below to have a brief intro on how to use linters
-https://www.google.com/search?q=how+to+use+linters&sxsrf=ALiCzsZBP8aP9KgjFJD29gQ7ufLwA12ihQ:1669998153856&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjdr_H1q9v7AhVN_7sIHcSCBrYQ_AUoAXoECAIQAw&biw=1228&bih=573&dpr=3.13#fpstate=ive&vld=cid:498279cd,vid:HDQXWr5TOnI
+> Add at least 2 questions new developers would ask when they decide to use your project.
 
-## 📝 License
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
